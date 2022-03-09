@@ -1,0 +1,20 @@
+body{
+  background:#c6c7c3;
+
+
+.bg-primary
+{
+  background:#26c9a9;
+}
+
+.container
+{
+  width: 90%;
+  margin: auto;
+
+}
+
+.item
+{
+  margin-left: 10%;
+}
